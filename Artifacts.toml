@@ -1,0 +1,9 @@
+[[CmdStanBinaries]]
+arch = "x86_64"
+git-tree-sha1 = "b320fb34fa0f272a440dcdeb9846d7beaaf15b33"
+libc = "glibc"
+os = "linux"
+
+    [[CmdStanBinaries.download]]
+    sha256 = "e61c7cc1a15b1387813157b20a171073b96cddd45e8e13b66f065eceef11d8f1"
+    url = "https://github.com/HAMdetector/CmdStanBinaries_jll.jl/releases/download/CmdStanBinaries-v0.1.0+0/CmdStanBinaries.v0.1.0.x86_64-linux-gnu.tar.gz"
